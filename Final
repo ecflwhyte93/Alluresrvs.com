@@ -1,4 +1,5 @@
-"""
+/npm install -g eas-cli
+npx eas build --platform android --profile production"""
 ALLURE Adult Classifieds Platform - Production API
 Features: Age Verification, ID Verification, Content Moderation, Safety Tools
 """
